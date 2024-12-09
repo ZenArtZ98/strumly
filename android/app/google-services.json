@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205932736763",
+    "project_id": "strumly-fb446",
+    "storage_bucket": "strumly-fb446.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205932736763:android:f40773898d3e6cde14405e",
+        "android_client_info": {
+          "package_name": "com.example.strumly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205932736763-cvb5v2mj1l2415c9cq87j4td5l8jj7p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHLUh-7cafRR8pvalRSqQ6wTuE2hwlHBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205932736763-cvb5v2mj1l2415c9cq87j4td5l8jj7p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

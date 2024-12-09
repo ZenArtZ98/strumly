@@ -1,0 +1,1 @@
+git remote add origin https://github.com/ZenArtZ98/strumly.git
